@@ -16,6 +16,7 @@ This repository contains the code and resources for zero-shot anomaly detection 
 **Notice**: You must place your files here and also fill in the requirements.txt and run.sh files.
 **Setup the Environment**: Use the provided Docker configuration to set up a test environment identical to the test environment and evaluate your code.
 ```bash
-   docker compose up ```
+   docker compose up
+ ```
 
 For more information, you can follow the instructions provided in the RAYAN AI competition panel.
